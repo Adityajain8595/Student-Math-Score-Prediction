@@ -6,4 +6,5 @@ matplotlib
 ipykernel
 catboost
 xgboost
--e .
+dill
+#-e .
