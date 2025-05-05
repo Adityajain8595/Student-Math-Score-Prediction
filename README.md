@@ -62,7 +62,8 @@ Algorithm Used: Ridge Regression, the best model selected from other regression 
 11. CatBoost Regression
 
 
-Evaluation Metric: R² Score, RMSE, MAE, MSE
+Evaluation Metric: R² Score, RMSE, MAE, MSE etc.
+
 Preprocessing: One-hot encoding, Standardization, etc.
 
 ## 📊 Dataset
