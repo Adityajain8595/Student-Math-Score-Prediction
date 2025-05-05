@@ -15,7 +15,7 @@ This project is built to predict students' math scores based on various socio-ec
 3. Trained regression model and preprocessor, stored as model.pkl and preprocessor.pkl, with training and testing data in artifacts/ respectively.
 
 4. Flask-based web interface to input student details and predict math score.
-<video controls src="visuals/Flask_app_interface_recording.mp4" title="Flask app"></video>
+    ![Flask app interface](visuals/Flask_app_interface_recording.mp4)
 
 5. Exception handling and logging integrated
 
@@ -26,6 +26,7 @@ Used libraries like scikit-learn, pandas, numpy, seaborn, matplotlib, Flask, etc
 1. Clone the Repository:- 
 
 >> git clone https://github.com/Adityajain8595/Student-Math-Score-Prediction.git
+
 >> cd student-score-predictor
 
 2. Install Dependencies:-
