@@ -15,7 +15,8 @@ This project is built to predict students' math scores based on various socio-ec
 3. Trained regression model and preprocessor, stored as model.pkl and preprocessor.pkl, with training and testing data in artifacts/ respectively.
 
 4. Flask-based web interface to input student details and predict math score.
-    ![Flask app interface](visuals/Flask_app_interface_recording.mp4)
+
+https://github.com/user-attachments/assets/e77b9eec-8f4d-4c3f-9cda-5fd0bdd6251e
 
 5. Exception handling and logging integrated
 
